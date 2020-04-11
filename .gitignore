@@ -2,3 +2,5 @@
 *.pyc
 docs/_build
 /.vs/slnx.sqlite
+/.vs/lego-lirc/v16/.suo
+/.vs
