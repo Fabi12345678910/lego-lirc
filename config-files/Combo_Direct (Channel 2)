@@ -9,7 +9,7 @@
 
 begin remote
 
-  name  LEGO_Combo_Direct
+  name  LEGO_Combo_Direct_Channel_2
   bits           16
   flags SPACE_ENC
   eps            30
